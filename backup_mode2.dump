@@ -1,0 +1,119 @@
+timestamp:                    2022-04-16 09:24:12      Timestamp
+vpv1:                          453.1 V    PV1 Voltage
+ipv1:                            0.5 A    PV1 Current
+ppv1:                            225 W    PV1 Power
+vpv2:                          409.5 V    PV2 Voltage
+ipv2:                            0.6 A    PV2 Current
+ppv2:                            286 W    PV2 Power
+ppv:                             511 W    PV Power
+pv2_mode:                          2      PV2 Mode code
+pv2_mode_label:               PV panels connected, producing power      PV2 Mode
+pv1_mode:                          2      PV1 Mode code
+pv1_mode_label:               PV panels connected, producing power      PV1 Mode
+vgrid:                         241.6 V    On-grid L1 Voltage
+igrid:                           1.0 A    On-grid L1 Current
+fgrid:                         50.06 Hz   On-grid L1 Frequency
+pgrid:                           184 W    On-grid L1 Power
+vgrid2:                        240.2 V    On-grid L2 Voltage
+igrid2:                          1.0 A    On-grid L2 Current
+fgrid2:                        50.01 Hz   On-grid L2 Frequency
+pgrid2:                          179 W    On-grid L2 Power
+vgrid3:                        236.0 V    On-grid L3 Voltage
+igrid3:                          1.1 A    On-grid L3 Current
+fgrid3:                        49.95 Hz   On-grid L3 Frequency
+pgrid3:                          191 W    On-grid L3 Power
+grid_mode:                         1      Grid Mode code
+grid_mode_label:              Connected to grid      Grid Mode
+total_inverter_power:            556 W    Total Power
+active_power:                   -885 W    Active Power
+grid_in_out:                       2      On-grid Mode code
+grid_in_out_label:            Importing      On-grid Mode
+reactive_power:                    0 var  Reactive Power
+apparent_power:                    0 VA   Apparent Power
+backup_v1:                     240.1 V    Back-up L1 Voltage
+backup_i1:                       0.3 A    Back-up L1 Current
+backup_f1:                     50.06 Hz   Back-up L1 Frequency
+load_mode1:                        1      Load Mode L1
+backup_p1:                         5 W    Back-up L1 Power
+backup_v2:                     238.5 V    Back-up L2 Voltage
+backup_i2:                       0.5 A    Back-up L2 Current
+backup_f2:                     50.01 Hz   Back-up L2 Frequency
+load_mode2:                        1      Load Mode L2
+backup_p2:                         3 W    Back-up L2 Power
+backup_v3:                     235.1 V    Back-up L3 Voltage
+backup_i3:                       0.6 A    Back-up L3 Current
+backup_f3:                     49.95 Hz   Back-up L3 Frequency
+load_mode3:                        1      Load Mode L3
+backup_p3:                        11 W    Back-up L3 Power
+load_p1:                          51 W    Load L1
+load_p2:                          23 W    Load L2
+load_p3:                        1349 W    Load L3
+backup_ptotal:                    18 W    Back-up Load
+load_ptotal:                    1424 W    Load
+ups_load:                          4 %    Ups Load
+temperature_air:                29.6 C    Inverter Temperature (Air))
+temperature_module:              0.0 C    Inverter Temperature (Module)
+temperature:                    25.7 C    Inverter Temperature (Radiator)
+function_bit:                      0      Function Bit
+bus_voltage:                   653.7 V    Bus Voltage
+nbus_voltage:                  325.1 V    NBus Voltage
+vbattery1:                       0.0 V    Battery Voltage
+ibattery1:                       0.0 A    Battery Current
+pbattery1:                         0 W    Battery Power
+battery_mode:                      0      Battery Mode code
+battery_mode_label:           No battery      Battery Mode
+warning_code:                      0      Warning code
+safety_country:                   13      Safety Country code
+safety_country_label:         Poland      Safety Country
+work_mode:                         1      Work Mode code
+work_mode_label:              Normal (On-Grid)      Work Mode
+operation_mode:                    0      Operation Mode code
+error_codes:                       0      Error Codes
+errors:                                   Errors
+e_total:                      1615.4 kWh  Total PV Generation
+e_day:                           0.7 kWh  Today's PV Generation
+e_total_exp:                  1694.5 kWh  Total Energy (export)
+h_total:                        1921 h    Hours Total
+e_day_exp:                       0.7 kWh  Today Energy (export)
+e_total_imp:                    81.3 kWh  Total Energy (import)
+e_day_imp:                       0.0 kWh  Today Energy (import)
+e_load_total:                 1608.9 kWh  Total Load
+e_load_day:                      1.3 kWh  Today Load
+e_bat_charge_total:            371.2 kWh  Total Battery Charge
+e_bat_charge_day:                0.0 kWh  Today Battery Charge
+e_bat_discharge_total:         305.8 kWh  Total Battery Discharge
+e_bat_discharge_day:             0.0 kWh  Today Battery Discharge
+diagnose_result:              34095279      Diag Status Code
+diagnose_result_label:        Battery voltage low, Battery SOC low, Battery SOC in back, BMS: Discharge disabled, Charge time on, BMS: Discharge current low, Battery Disconnected, Self-use off, PF value set      Diag Status
+house_consumption:              1396 W    House Consumption
+commode:                           1      Commode
+rssi:                            101      RSSI
+manufacture_code:                 10      Manufacture Code
+meter_test_status:                 0      Meter Test Status
+meter_comm_status:                 1      Meter Communication Status
+active_power1:                   127 W    Active Power L1
+active_power2:                   152 W    Active Power L2
+active_power3:                 -1166 W    Active Power L3
+active_power_total:             -886 W    Active Power Total
+reactive_power_total:            208 var  Reactive Power Total
+meter_power_factor1:           0.505      Meter Power Factor L1
+meter_power_factor2:           0.613      Meter Power Factor L2
+meter_power_factor3:          -0.988      Meter Power Factor L3
+meter_power_factor:           -0.527      Meter Power Factor
+meter_freq:                    50.01 Hz   Meter Frequency
+meter_e_total_exp:            973.557 kWh  Meter Total Energy (export)
+meter_e_total_imp:            305.538 kWh  Meter Total Energy (import)
+meter_active_power1:             127 W    Meter Active Power L1
+meter_active_power2:             152 W    Meter Active Power L2
+meter_active_power3:           -1166 W    Meter Active Power L3
+meter_active_power_total:       -886 W    Meter Active Power Total
+meter_reactive_power1:           205 var  Meter Reactive Power L1
+meter_reactive_power2:           178 var  Meter Reactive Power L2
+meter_reactive_power3:          -175 var  Meter Reactive Power L2
+meter_reactive_power_total:      208 var  Meter Reactive Power Total
+meter_apparent_power1:           257 VA   Meter Apparent Power L1
+meter_apparent_power2:           250 VA   Meter Apparent Power L2
+meter_apparent_power3:         -1180 VA   Meter Apparent Power L3
+meter_apparent_power_total:    -1688 VA   Meter Apparent Power Total
+meter_type:                        1      Meter Type
+meter_sw_version:                  5      Meter Software Version
